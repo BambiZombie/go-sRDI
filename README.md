@@ -1,6 +1,6 @@
 # go-sRDI
 
-shellcodeRDI的golang实现
+sRDI的golang实现 （Only x64）
 
 
 
